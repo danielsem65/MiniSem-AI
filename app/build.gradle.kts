@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace = "com.localminicpm"
     compileSdk = 34
     defaultConfig {
         applicationId = "com.localminicpm"
